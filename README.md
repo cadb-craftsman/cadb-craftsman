@@ -1,6 +1,6 @@
 # Hi, I'm Carlos
 
-[![](https://img.shields.io/badge/LinkedIn-carlosblue?style=flat-square)](www.linkedin.com/in/carlos-alberto-diaz-barboza-7086075a)
+[![](https://img.shields.io/badge/LinkedIn-carlos-blue?style=flat-square)](www.linkedin.com/in/carlos-alberto-diaz-barboza-7086075a)
 [![](https://img.shields.io/badge/Homepage-cadb-craftsman.com-brightgreen?style=flat-square)](http://cadb-craftsman.com)
 [![](https://img.shields.io/badge/Email-cadb.craftsman%40gmail.com-red?style=flat-square)](mailto:cadb.craftsman@gmail.com)
 
@@ -20,6 +20,7 @@
 ![HTML5](http://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
 ![Angular](http://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=ffffff)
+![Vaadin](http://img.shields.io/badge/-Vaadin-DD0031?style=flat-square&logo=vaadin&logoColor=ffffff)
 
 #### Database
 
@@ -31,14 +32,13 @@
 
 ![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
 ![Serverless](http://img.shields.io/badge/-Serverless-E2231A?style=flat-square&logo=serverless&logoColor=ffffff)
-&nbsp;
 ![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![Kubernetes](http://img.shields.io/badge/-Kubernetes-2496ED?style=flat-square&logo=kubernetes&logoColor=ffffff)
 
 #### Mobile
 
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
-![iOS](http://img.shields.io/badge/-iOS-E25A1C?style=flat-square&logo=ios&logoColor=ffffff)
+![iOS](http://img.shields.io/badge/-E25A1C?style=flat-square&logo=ios&logoColor=ffffff)
 ![Flutter](http://img.shields.io/badge/-Flutter-FF6600?style=flat-square&logo=flutter&logoColor=ffffff)
 
 #### Tooling
@@ -46,4 +46,4 @@
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)
 ![Git](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
-![Eclipse](http://img.shields.io/badge/-Eclipse000000?style=flat-square&logo=eclipse&logoColor=ffffff)
+![Eclipse](http://img.shields.io/badge/-Eclipse-000000?style=flat-square&logo=eclipse&logoColor=ffffff)
