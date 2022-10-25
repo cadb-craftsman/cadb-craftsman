@@ -1,16 +1,48 @@
-### Hi there 👋
+# Hi, I'm Carlos
 
-<!--
-**cadb-craftsman/cadb-craftsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/LinkedIn-carlosblue?style=flat-square)](https://www.linkedin.com/in/mradzikowski/)
+[![](https://img.shields.io/badge/Homepage-cadb-craftsman.com.pl-brightgreen?style=flat-square)](http://cadb-craftsman.com)
+[![](https://img.shields.io/badge/Email-cadb.craftsman%40gmail.com.pl-red?style=flat-square)](mailto:cadb.craftsman@gmail.com)
 
-Here are some ideas to get you started:
+## My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Backend
+
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+![kotlin](http://img.shields.io/badge/-Kotlin-DC322F?style=flat-square&logo=scala&logoColor=ffffff)
+
+![Bash](http://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+
+#### Frontend
+
+![HTML5](http://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+![Angular](http://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=ffffff)
+
+#### Database
+
+![MySQL](http://img.shields.io/badge/-MySQL-003545?style=flat-square&logo=mysql&logoColor=ffffff)
+![MongoDB](http://img.shields.io/badge/-MongoDB-005571?style=flat-square&logo=mongodb&logoColor=ffffff)
+![Oracle](http://img.shields.io/badge/-Oracle-DC382D?style=flat-square&logo=oracle&logoColor=ffffff)
+
+#### Env
+
+![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
+![Serverless](http://img.shields.io/badge/-Serverless-E2231A?style=flat-square&logo=serverless&logoColor=ffffff)
+&nbsp;
+![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
+![Kubernetes](http://img.shields.io/badge/-Kubernetes-2496ED?style=flat-square&logo=kubernetes&logoColor=ffffff)
+
+#### Miscellaneous
+
+![Apache Spark](http://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=ffffff)
+![RabbitMQ](http://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=ffffff)
+![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
+
+#### Tooling
+
+![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)
+![Git](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
