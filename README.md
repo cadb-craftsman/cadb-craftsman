@@ -43,11 +43,10 @@
 
 #### Tooling
 
-![Tomcat](http://img.shields.io/badge/-Tomcat-FCC624?style=flat-square&logo=tomcat&logoColor=ffffff)
-![JBoss](http://img.shields.io/badge/-JBoss-FCC624?style=flat-square&logo=jboss&logoColor=ffffff)
+![Tomcat](http://img.shields.io/badge/-Tomcat-2496ED?style=flat-square&logo=tomcat&logoColor=ffffff)
+![JBoss](http://img.shields.io/badge/-JBoss-DD0031?style=flat-square&logo=jboss&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)
 ![Git](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
-![Eclipse](http://img.shields.io/badge/-Eclipse-000000?style=flat-square&logo=eclipse&logoColor=ffffff)
-![XCode](http://img.shields.io/badge/-XCode-000000?style=flat-square&logo=xcode&logoColor=ffffff)
-![DBeaver](http://img.shields.io/badge/-DBeaver-000000?style=flat-square&logo=dbeaver&logoColor=ffffff)
+![Eclipse](http://img.shields.io/badge/-Eclipse-007396?style=flat-square&logo=eclipse&logoColor=ffffff)
+![XCode](http://img.shields.io/badge/-XCode-2496ED?style=flat-square&logo=xcode&logoColor=ffffff)
