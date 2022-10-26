@@ -1,7 +1,7 @@
 # Hi, I'm Carlos
 
 [![](https://img.shields.io/badge/LinkedIn-carlos-blue?style=flat-square)](https://www.linkedin.com/in/carlos-alberto-diaz-barboza-7086075a)
-[![](https://img.shields.io/badge/Homepage-'cadb-craftsman.com'-brightgreen?style=flat-square)](http://cadb-craftsman.com)
+[![](https://img.shields.io/badge/Homepage-craftsman.com-brightgreen?style=flat-square)](http://cadb-craftsman.com)
 [![](https://img.shields.io/badge/Email-cadb.craftsman%40gmail.com-red?style=flat-square)](mailto:cadb.craftsman@gmail.com)
 
 ## Tech Stack
