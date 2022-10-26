@@ -43,7 +43,7 @@
 
 #### Tooling
 
-![Tomcat](http://img.shields.io/badge/-Tomcat-2496ED?style=flat-square&logo=tomcat&logoColor=ffffff)
+![Tomcat](http://img.shields.io/badge/-Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=ffffff)
 ![JBoss](http://img.shields.io/badge/-JBoss-DD0031?style=flat-square&logo=jboss&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)
 ![Git](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
