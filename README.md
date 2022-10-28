@@ -44,6 +44,7 @@
 
 #### Devops
 
+![Scrum](http://img.shields.io/badge/-Scrum-009FDA?style=flat-square&logo=scrum&logoColor=ffffff)
 ![Jenkins](http://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=ffffff)
 ![Git](http://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![Nexus](http://img.shields.io/badge/-Nexus-F05032?style=flat-square&logo=nexus&logoColor=ffffff)
